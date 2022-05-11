@@ -16,7 +16,7 @@
 
 ## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
 ## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/technomindzchat)
-## Contact [<i>RAVI</i>](https://t.me/technomindzyt)
+## Contact [<i>꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂</i>](https://t.me/technomindzyt)
 
 ## DEPLOY
 
