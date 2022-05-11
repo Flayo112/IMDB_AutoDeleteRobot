@@ -18,7 +18,7 @@ lock = asyncio.Lock()
 async def index_files(bot, query):
     if query.data.startswith('index_cancel'):
         temp.CANCEL = True
-        return await query.answer("Stopping Indexing 🤚")
+        return await query.answer("Stopping Indexing😉")
     _, raju, chat, lst_msg_id, from_user = query.data.split("#")
     if raju == 'reject':
         await query.message.delete()
@@ -37,7 +37,7 @@ async def index_files(bot, query):
                                f'Your Submission for indexing {chat} has been accepted by our moderators😀 and will be added soon.✔️',
                                reply_to_message_id=int(lst_msg_id))
     await msg.edit(
-        "Indexing Started 🤖",
+        "Indexing Started🤖",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton('Cancel', callback_data='index_cancel')]]
         )
